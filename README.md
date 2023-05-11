@@ -1,3 +1,1 @@
-![SnowFlowLogo](img/logo.jpg)
-
-# Team SnowFlow
+# <img src="img/logo.jpg"  width="50"> SnowFlow
