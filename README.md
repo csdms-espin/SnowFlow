@@ -1,3 +1,3 @@
-![SnowFlowLogo](img/logo.png)
+![SnowFlowLogo](img/logo.jpg)
 
 # Team SnowFlow
