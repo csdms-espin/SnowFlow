@@ -1,0 +1,8 @@
+bmi-topography:
+  dem_type: 'SRTMGL1'
+  south: 40.135
+  north: 40.179
+  west: -105.353
+  east: -105.291
+  output_format: GTiff
+  cache_dir: "./cache_calwood"
